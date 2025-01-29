@@ -1,1 +1,1 @@
-#My kitty config :D
+My kitty config :D
